@@ -1,11 +1,10 @@
+import Body from "./components/Body";
 
 
 
 function App() {
   return (
-    <div className="text-3xl font-semibold text-red-500">
-      HELLOO
-    </div>
+   <Body />
   );
 }
 
