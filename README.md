@@ -4,3 +4,6 @@
 -Installed Tailwind CSS
 -Header
 -Login Component
+-Signup Component
+-Form Validation
+-UseRef Hook
