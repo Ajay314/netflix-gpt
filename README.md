@@ -12,3 +12,5 @@
 -Create Signup User Account
 -implement Sign in user API
 -Setup Redux Store with userSlice
+-Implemented SignOUT 
+-Fetch Movies
