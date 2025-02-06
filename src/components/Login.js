@@ -94,6 +94,7 @@ const Login = () => {
             type="password"
             placeholder="Password"
             className="p-4 my-4 w-full bg-gray-700"
+            
           />
           <p className="text-red-500 font-bold text-lg py-2">{errorMessage}</p>
           <button
