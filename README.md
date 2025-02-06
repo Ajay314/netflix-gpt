@@ -13,4 +13,5 @@
 -implement Sign in user API
 -Setup Redux Store with userSlice
 -Implemented SignOUT 
--Fetch Movies
+-Unsubscribe to the onAuthStateChanged Callback
+-Fetch Movies from API
