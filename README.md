@@ -15,3 +15,7 @@
 -Implemented SignOUT 
 -Unsubscribe to the onAuthStateChanged Callback
 -Fetch Movies from API
+-Custom Hook for nowPlayingMovies
+-Create Movie Slice
+-Updated the store with Movie data
+
