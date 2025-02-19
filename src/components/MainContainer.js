@@ -14,7 +14,9 @@ const MainContainer = () => {
   return (
     <div>
       <VideoTitle title={originalTitle} overview={description} />
+      <div className="">
       <VideoBackground image={primaryImage}/>
+      </div>
     </div>
   );
 };

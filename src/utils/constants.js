@@ -8,3 +8,12 @@ export const options = {
 		'x-rapidapi-host': 'imdb236.p.rapidapi.com'
 	}
 };
+
+ export const url1 = 'https://imdb236.p.rapidapi.com/imdb/most-popular-movies';
+export const options1 = {
+	method: 'GET',
+	headers: {
+		'x-rapidapi-key': '70ab1de390msh12d33fd9a5a4cd2p150000jsnaf7d981d0842',
+		'x-rapidapi-host': 'imdb236.p.rapidapi.com'
+	}
+};
