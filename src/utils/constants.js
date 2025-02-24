@@ -17,3 +17,31 @@ export const options1 = {
 		'x-rapidapi-host': 'imdb236.p.rapidapi.com'
 	}
 };
+
+export const url2 = 'https://imdb236.p.rapidapi.com/imdb/india/top-rated-indian-movies';
+export const options2 = {
+	method: 'GET',
+	headers: {
+		'x-rapidapi-key': '70ab1de390msh12d33fd9a5a4cd2p150000jsnaf7d981d0842',
+		'x-rapidapi-host': 'imdb236.p.rapidapi.com'
+	}
+};
+
+export const url3 = 'https://imdb236.p.rapidapi.com/imdb/top-box-office';
+export const options3 = {
+	method: 'GET',
+	headers: {
+		'x-rapidapi-key': '70ab1de390msh12d33fd9a5a4cd2p150000jsnaf7d981d0842',
+		'x-rapidapi-host': 'imdb236.p.rapidapi.com'
+	}
+};
+
+export const url4= 'https://imdb236.p.rapidapi.com/imdb/most-popular-tv';
+export const options4= {
+	method: 'GET',
+	headers: {
+		'x-rapidapi-key': '70ab1de390msh12d33fd9a5a4cd2p150000jsnaf7d981d0842',
+		'x-rapidapi-host': 'imdb236.p.rapidapi.com'
+	}
+};
+
