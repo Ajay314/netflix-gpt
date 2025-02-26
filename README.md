@@ -18,4 +18,7 @@
 -Custom Hook for nowPlayingMovies
 -Create Movie Slice
 -Updated the store with Movie data
+-GPT Search Feature
+-GPT Search Bar
+-****MultiLanguage Feature in our App
 
